@@ -3,7 +3,7 @@ A collection of my academic research papers and projects in Business, AI, Automa
 Project Overview
 * **Presented By:** Poulomi Jana (Roll No. 1302)
 * **Organization Focus:** 1Cell.Ai (Ai-Powered Precision Oncology)
-* **Research Period:** June - August 2025
+* **Research Period:** June - September 2025
 
 ---
 
